@@ -1,2 +1,3 @@
 # python-calculator-tkinter
-Calculadora en Pyhton utilizando Tkinter
+
+Calculadora hecha en Python utilizando Tkinter
